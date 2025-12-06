@@ -8,8 +8,11 @@ Sistem ini adalah solusi IoT berbasis **NodeMCU ESP8266** yang berfungsi untuk m
 
 ## 📸 Tampilan Sistem
 
-*(Silakan upload screenshot dashboard web kamu di sini dan ganti link gambarnya)*
-![Dashboard Web](path/to/screenshot_dashboard.png)
+![Dashboard Web](https://github.com/natalie-gabriel/Project-Tugas-Akhir-IoT/blob/main/images/web.png)
+
+## 📸 Rangkaian Arduino
+
+![Dashboard Web](https://github.com/natalie-gabriel/Project-Tugas-Akhir-IoT/blob/main/images/esp.jpg)
 
 ---
 
